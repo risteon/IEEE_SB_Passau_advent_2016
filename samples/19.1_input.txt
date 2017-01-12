@@ -1,0 +1,11 @@
+5
+2 1
+Jan Robert
+3 2
+Jan Robert;Robert Horst
+3 3
+Jan Robert;Robert Horst;Jan Horst
+4 4
+Sabine Peter;Ursula Horst;Ursula Peter;Peter Horst
+4 2
+Ursula Theresa;Heinz Robert

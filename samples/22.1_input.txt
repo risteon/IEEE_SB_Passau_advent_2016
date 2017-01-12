@@ -1,0 +1,10 @@
+2
+2
+km 0: Verbrauch 7
+km 100: Huette
+5
+km 0: Verbrauch 3
+km 70: Leck
+km 80: Werkstatt
+km 100: Tankstelle
+km 200: Huette
